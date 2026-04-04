@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Steveoliver55
-- 👀 I’m interested in ... Coding, programming, AI
+- 👀 I’m interested in ... Coding, AI, networking
 - 🌱 I’m currently learning ...Cyber Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
